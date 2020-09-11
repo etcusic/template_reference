@@ -21,4 +21,4 @@ Now here is the Git process I went through to initialize the repository:
 - git add .  (adds entire directory to github repository)
 - git commmit -m "this is the commit message that needs to be tied to every commit/add"
 - git push  (this pushes the 'commit' onto the github repository)
-- 
+- git status    (this checks the status of the repository)
